@@ -1,0 +1,88 @@
+.Header-logo {
+    margin: 40px 100px;
+}
+.Header {
+    display: flex;
+    align-items: center;
+}
+
+.click {
+    color: black;
+    text-decoration: none;
+}
+
+.click2 {
+    color: black;
+    text-decoration: none;
+}
+
+.click3 {
+    color: black;
+    text-decoration: none;
+}
+
+.click4 {
+    color: black;
+    text-decoration: none;
+}
+
+.click5 {
+    color: black;
+    text-decoration: none;
+}
+
+body {
+  font-family: "Space Grotesk", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+}
+
+.click {
+    margin-right: 40px;
+}
+
+.click2 {
+    margin-right: 40px;
+}
+
+.click3 {
+    margin-right: 40px;
+}
+
+.click4 {
+    margin-right: 40px;
+}
+
+.click5 {
+    margin-right: 40px;
+}
+
+.img {
+    margin-right: 40px;
+}
+
+.img {
+    position: relative;
+}
+.img {
+    position: absolute;
+    right: 50px;
+}
+
+.hh {
+    font-size: 50px;
+    margin: 40px 100px;
+}
+
+.hhh {
+    margin: 40px 100px;
+}
+
+.Header-button7 {
+    margin: 40px 100px;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+
+}
